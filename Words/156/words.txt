@@ -1,0 +1,22 @@
+day 156:
+
+colony n.殖民地；侨民；聚居区；(动植物的)群体
+season n.季,季节,时节
+commodity n.(pl.)日用品；商品；农/矿产品；有用之物
+increase v./n.增加,增长,增进
+hate v.恨,憎恨;不愿,不喜欢 n.恨,憎恶
+would aux./v.将；可能；将会；总是，总会；宁愿
+resistant a.(to)抵抗的,有抵抗力的
+general a.一般的,普通的;总的,大体的 n.将军
+find v.(found,found)找到；发现；发觉；感到
+offend v.犯罪,冒犯,违反,得罪,使...不愉快
+disappoint vt.失望；(希望等)破灭，挫败(计划等)
+resolve v.决心;(使)分解,溶解;决议 n.解决;决心
+feature n.特征;容貌;特色;特写 v.以...为特色
+Allow vt.允许，准许；承认；给予；(for)考虑到
+eight num.八 pron.八(个，只...)
+estate n.房地产;不动产;所有权;地位;生活状况
+auditorium n.观众席，听众席；会堂，礼堂
+dizzy a.头晕目眩的,眩晕的;(可能)使人头晕的
+bandage n.绷带 v.用绷带扎缚
+praise v.赞扬,歌颂;表扬 n.称赞,赞美;赞美的话

@@ -1,0 +1,22 @@
+day 178:
+
+schedule n.时间表,进度表 v.安排,预定
+array n.大量；排列；盛装 v.列阵；装扮；排列
+quote v.引用,援引
+deficit n.赤字,逆差;亏损,亏空;不足,缺乏
+aeroplane n.(airplane)(英)飞机
+whirl v.(使)旋转,打转 n.旋转;-连串快速的活动
+vote n.投票,表决;选票,选票数 v.投票,表决
+staff n.全体职工;杠,棒;参谋部 v.配备工作人员
+assembly n.集合；会议；装配；(美)洲议会的众议院
+pen n.钢笔,圆珠笔,作家,围栏 vt.写,关入栏中
+trick n.诡计,骗局;恶作剧;窍门 vt.欺骗,哄骗
+compensation n.补偿(或赔偿)的款物；补偿，赔偿
+bully n.恃强欺弱者，小流氓 vt.威胁，欺侮
+society n.社会;社团,协会,社;社交界,上流社会
+amplify vt.放大，增强；详述，详加解说
+collision n.碰撞；(利益，意见等的)冲突，抵触
+preliminary a.预备的,初步的
+uneasy a.不安的,焦虑的
+indeed ad.确实,实在;真正地,多么
+erupt v.(尤指火山)爆发

@@ -1,0 +1,22 @@
+day 119:
+
+sum n.总数,和;金额;算术题;要旨 v.合计,总计
+quiz n.小型考试,测验,问答比赛
+speak v.说话，讲话；演说，发言；(in)说某种语言
+candy n.糖果
+offset n.分支,补偿 v.抵消,补偿
+doubt n./v.怀疑,疑虑
+recipe n.烹饪法,食谱;诀窍,方法
+sideways ad./a.向旁边(的),侧身,横着(的),斜着(的)
+suspicious a.(of)可疑的,多疑的,疑心的
+assumption n.假定，设想；采取；承担；推测；假装
+anything pron.任何东西(事物)；无论什么东西(事物)
+ninety num.九十，九十个
+silent a.寂静,沉默的
+solution n.解答,解决办法;溶解,溶液
+forge v.锻造,伪造 n.锻工车间;锻炉
+widow n.寡妇
+visitor n.访问者,客人,来宾,参观者
+foul a.污秽的;邪恶的 v.弄脏;妨害;犯规 n.犯规
+bid v.祝愿;命令,吩咐;报价,投标 n.出众,投标
+distance n.距离,间隔,远方,路程

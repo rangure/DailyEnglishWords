@@ -1,0 +1,22 @@
+day 105:
+
+wagon n.运货马车,运货车;敞蓬车厢
+monitor n.班长;监听器,监视器 v.监控,监测
+ocean n.海洋
+institution n.公共机构;协会;学校;研究所;制度;惯例
+aspect n.样子, 外表, 面貌, (问题等的)方面
+reinforce v.增援,加强
+rubbish n.垃圾,废物;废话
+lap n.大腿,(跑道的)一圈,一段路程,工作阶段
+Saturday n.星期六
+tell vt.告诉，讲述；告诫；吩咐，命令；辨/区别
+foundation n.基础,根本,建立,创立;地基,基金,基金会
+electrician n.电学家,电工
+citizen n.公民;市民,居民
+essence n.本质,实质
+previous a.先前的,以前的
+stability n.稳定,安定
+shiver v./n.战栗,发抖
+lab n.(laboratory)实验室
+fabulous a.极好的；极为巨大的；寓言中的，传说中的
+guidance n.引导,指导

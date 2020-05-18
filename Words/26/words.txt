@@ -1,0 +1,22 @@
+day 26:
+
+chimney n.烟囱
+abstract a.抽象的 n.摘要，梗概 vt.提取；摘录要点
+noun n.名词
+there ad.在那儿；往那儿；[作引导词表示"存在"]
+phrase n.短语,词语,习语
+budget n.预算 v.做预算
+skyscraper n.摩天大楼
+boot n.靴；(汽车后部的)行李箱；[the-]解雇
+spelling n.拼法,拼写法
+bus n.公共汽车，总线，信息通路
+eleven num.十一 pron./a.十一(个，只...)
+probability n.可能性,或然性,概率
+price n.价格,价钱;代价 v.标价
+shark n.鲨鱼
+owe v.欠(债等),应向„付出,归功于,得感谢
+cell n.细胞;小房间;蜂房;电池
+nearly ad.差不多,几乎
+benefit n.利益,好处,恩惠 v.有益于;(from,by)受益
+identify v.识别,鉴别;(with)把„和„看成一样
+illness n.病,疾病

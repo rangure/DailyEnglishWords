@@ -1,0 +1,22 @@
+day 215:
+
+sale n.出售,上市;贱卖,廉价出售;销售额
+hard a.坚硬的；结实的；困难的；难忍的；严厉的
+intermittent a.间歇的,断断续续的
+analytic a.(analytical)分析的；分解的
+conductor n.管理者；(汽车)售票员；领队，指挥；导体
+practise v.练习,实习,实践,实行,使...练习,训练
+officer n.官员,办事员;工作人员;军官
+spectacle n.(pl.)眼镜;场面,景象;奇观,壮观
+questionnaire n.调查表,问卷
+breast n.胸膛,乳房
+overthrow v./n.推翻,颠覆
+victory n.胜利
+excite v.刺激,使激动;激发,激励
+skin n.皮,皮肤;兽皮,皮毛;外皮,外壳 v.剥皮
+formula n.(pl.formulae)公式;规则;分子式;药方
+miserable a.痛苦的,悲惨的
+orderly a.整齐的,有秩序的,有条理的 n.勤务兵
+humidity n.湿气,湿度
+merchant n.商人,零售商
+script n.剧本(原稿)；手稿，原稿；笔迹，手迹

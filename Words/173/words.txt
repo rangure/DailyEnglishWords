@@ -1,0 +1,22 @@
+day 173:
+
+lobby n.门廊,门厅,(会议)休息厅
+hook n.钩,吊钩,钩状物 v.钩住
+change n.改变,变化;零钱 v.更换,调换,交换;改变
+loyal a.(to)忠诚的,忠贞的
+imperative n.命令;需要;规则;祈使语气 a.强制的;紧急的
+punish v.惩罚,处罚
+undo v.松开,解开
+pathetic a.可怜的, 悲惨的
+eccentric a.古怪的，怪癖的，异乎寻常的 n.古怪的人
+desk n.书桌，办公桌，服务台
+primary a.最初的,初级的;首要的,主要的,基本的
+restore v.恢复,使回复;归还,交还;修复,重建
+shame n.羞耻,耻辱;可耻的人(或事物) v.使羞愧
+graceful a.优美的,文雅的,大方的
+interval n.间隔,间歇;(幕间或工间)休息
+Aisle n.(教堂、教室、戏院等里的)过道，通道
+glad a.高兴的，快活的；乐意的，情愿的
+phone n.(telephone)电话,电话机,耳机 v.打电话
+envy v./n.羡慕,忌妒
+expedition n.远征(队),探险(队)

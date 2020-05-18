@@ -1,0 +1,22 @@
+day 153:
+
+librarian n.图书管理员
+exit n.出口,通道
+document n.公文,文献
+skeleton n.骨骼;骨架,框架;梗概,提要
+cluster n.丛,群,串 v.群集,丛生
+police n.警察,警察机关 a.警察的 v.管辖
+diligent a.勤奋的,用功的
+deduct vt.扣除;演绎(推理)
+global a.球形的;全球的,全世界的;全面的
+lump n.团,块 v.(使)成团,(使)成块
+responsibility n.责任,责任心;职责,任务
+stomach n.胃，胃口；肚子，腹部 vt.承受，忍受
+worker n.工人，工作者，工作人员
+resume n.个人简历 v.再继续,重新开始;再用;恢复
+typist n.打字员
+morning n.早晨，上午
+underlying a.含蓄的,潜在的;在下面的
+chemistry n.化学
+indignation n.愤怒,愤慨
+map n.地图,图 vt.在地图上标示出,绘制地图

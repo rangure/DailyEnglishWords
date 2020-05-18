@@ -1,0 +1,22 @@
+day 51:
+
+shopkeeper n.店主
+structure n.结构,构造;建筑物 v.构造,建造
+ability n.能力；本领；才能，才干；专门技能，天资
+legitimate a.合法的；合理的，合乎逻辑的 vt.使合法
+prevent v.(from)预防,防止,阻止,制止,妨碍
+remarkable a.值得注意的;显著的,异常的,非凡的
+version n.版本;译本,译文;说法
+themselves pron.他(她、它)们自己；他(她、它)们亲自
+pub n.(英国)小酒店；小旅馆
+thief n.(thieves)贼；小偷
+prefer v.(to)更喜欢,宁愿
+motor n.发动机,电动机
+gently ad.文雅地,有礼貌地;轻轻地
+mobilize v.(mobilise)动员,赋予可动性
+defy v.(公然)违抗,反抗;蔑视
+overtime a.超时的,加班的 ad.加班
+cheat v.欺骗;作弊 n.骗子;欺诈,欺骗行为
+fall v.跌倒;下降;减弱;坠落;变成,陷于 n.秋季
+semiconductor n.半导体
+canteen n.(工厂、办公室等)食堂或小卖部

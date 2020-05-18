@@ -1,0 +1,22 @@
+day 55:
+
+classification n.分类,分级
+let v.让，允许，听任；设，假设；出租，租给
+opponent n.对手,反对者,敌手 a.对立的,对抗的
+grass n.草，草地
+tuck v.卷起;塞进
+superiority n.优越(性)，优势，优等；高傲，傲慢
+whereas conj.而,却,反之
+hang v.悬挂,垂吊;吊死,绞死
+interact v.互相作用,互相影响
+stun vt.使…失去知觉；使目瞪口呆，使吃惊
+equator n.赤道
+workshop n.车间，工场，修理厂；研讨会，讲习班
+overpass n.过街天桥 vt.胜过,通过,忽视
+pollution n.污染
+rule v.统治;支配;裁定 n.规章,条例;习惯;统治
+static a.(statical)静态的,静力的
+liner n.班机,定期轮船,邮船
+diagram n.图表;图解
+nitrogen n.[化]氮
+youngster n.小伙子，年轻人；少年，儿童

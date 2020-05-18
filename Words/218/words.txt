@@ -1,0 +1,22 @@
+day 218:
+
+material n.材料,原料,资料 a.物质的,肉体的,实质性的
+run v.奔，跑；流，淌；蔓延，伸展；经营；运转
+confirm v.使更坚固,使更坚定;(进一步)证实;确认
+enquire v.(inquire)询问,打听;调查;查问
+cage n.鸟笼
+lion n.狮子
+leisure n.空闲,闲暇;悠闲,安逸
+guard v./n.保卫，守卫，提防 n.哨兵，警卫，看守
+doctor n.医生;博士 vt.授以博士学位;诊断;修改
+pole n.柱,杆;地极,磁极,电极
+oven n.炉,灶,灶箱
+drunk a.醉酒的；(喻)陶醉的 n.酗酒者，醉汉
+cloudy a.多云的,阴(天)的;混浊的,模糊的
+reduce v.减少,缩小;简化,还原
+compel v.强迫,迫使
+postpone v.推迟,延期
+marble n.大理石,云石
+sole a.单独的,唯一的 n.脚垫,鞋底
+evacuate vt.撤离，疏散，排泄，剥夺
+translation n.翻译;译文,译本

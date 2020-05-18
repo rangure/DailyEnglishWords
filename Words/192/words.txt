@@ -1,0 +1,22 @@
+day 192:
+
+region n.地区,地带,行政区,(科学等)领域
+quest n.探寻，探求；寻求，追求
+year n.年，年度，学年 a./ad.每年，一年一次
+should aux.v.应该；万一；可能，该；就；竟然会
+unity n.团结;统一,一致,整体
+ignorance n.无知,愚昧;不知道
+case n.箱,盒,容器;情况,事实;病例;案件
+brass n.黄铜,铜器
+concert n.音乐会,演奏会;一齐,一致
+cloak n.斗蓬，披风；掩饰，幌子 vt.掩盖，掩饰
+desolate a.荒凉的;孤独的 v.使荒芜
+Also ad.而且(也)，此外(还)；同样地
+surname n.姓
+nothing n.没有东西；什么也没有；无关紧要的人或事
+card n.卡片,名片;纸牌;纸片
+violate vt.违背;冒犯;妨碍;侵犯;亵渎(圣物)
+busy a.忙，忙碌的；热闹的，繁忙的；(电话)占线
+stick n.棍,棒,手杖 v.刺,戳,扎;粘贴
+entitle v.给以权利(或资格);给„称号(题名);授权
+slippery a.滑的,滑溜的

@@ -1,0 +1,22 @@
+day 237:
+
+chef n.(餐馆等的)厨师长，厨师
+arrogant a.傲慢的，自大的
+library n.图书馆;藏书室;藏书,丛书,文库
+uncover v.揭开,揭露
+reptile n.爬行动物
+surround vt.包围，环绕 n.环绕物
+demonstrate v.论证,证实;演示,说明
+except prep.除„之外 v.除外;反对
+eclipse n.日食,月食
+desire v./n.愿望,欲望,要求
+blueprint n.蓝图，设计图，计划 vt.制成蓝图，计划
+horrible a.令人恐惧的，可怕的；极讨厌的，糟透的
+kin n.家族,亲属,血缘关系 a.亲属关系的,同类的
+complement n.补足物，船上的定员；补语 vt.补充，补足
+tilt v.(使)倾侧；(使)倾斜 n.倾侧；倾斜
+talent n.才能,天资;人才
+as ad.同样地 conj.由于；像...一样 prep.作为
+subordinate a.(to)次要的,从属的;下级的
+roar n./v.吼叫,怒号;轰鸣,咆哮
+federation n.同盟;联邦;联合;联盟;联合会

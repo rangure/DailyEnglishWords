@@ -1,0 +1,22 @@
+day 91:
+
+goodness n.善良，仁慈；(食物等)精华 int.天哪
+ascertain vt.确定，查明，弄清
+electron n.电子
+proceeding n.行动,进行,(pl.)会议录,学报
+magistrate n.地方行政官，地方法官，治安官
+tiny a.极小的,微小的
+progress v./n.进步，进展；前进
+administer v.施行，实施；掌管，料理...的事务；给予
+packet n.小包裹,小捆;盒;一捆,一扎;邮船,班轮
+ban v.取缔,查禁;(from)禁止 n.禁止,禁令
+storm n.暴风雨,暴风雪;激动,爆发 v.猛攻,直捣
+belt n.(皮)带,腰带;地带
+throne n.御座，宝座；王位，王权
+applause n.鼓掌；喝彩；夸奖，赞扬
+compass n.罗盘,指南针;(pl.)圆规
+astronomy n．天文学
+zebra n.斑马
+upper a.上面的;上部的,较高的
+hysterical a.情绪异常激动的,歇斯底里的
+fracture n.裂缝(痕);骨折 v.(使)断裂,(使)折断

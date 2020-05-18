@@ -1,0 +1,22 @@
+day 242:
+
+puppet n.木偶,傀儡
+optimum a.最适宜的 n.最适宜(条件)
+lick vt.舔；(火焰或浪)掠过；打败 n.舔；少量
+furious a.狂怒的,狂暴的,猛烈的
+snowstorm n.暴风雪
+illusion n.幻想，错误的观念；错觉，幻觉，假象
+software n.软件
+without prep.无，没有 n.外面，外部
+diet n.饮食,食物
+breach n.违反，不履行；破裂 vt.冲破，攻破
+positive a.肯定的,积极的,绝对的,无疑的,正的
+instruct v.教,教授;命令,指示
+value n.价格;价值;实用性 v.评价,估价;尊重
+stable a.稳定的,安定的 n.马厩,马棚
+remove v.移动,脱掉,调动,免职
+visit n.访问,参观 v.访问,参观;视察;降临;闲谈
+cancer n.癌
+aboard ad.&prep.在船(飞机、车)上；ad.上船(飞机)
+dim a.暗淡的,模糊的
+outline n.轮廓,略图;大纲,梗概 v.概述,略述

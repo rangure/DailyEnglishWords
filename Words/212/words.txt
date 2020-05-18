@@ -1,0 +1,22 @@
+day 212:
+
+length n.长,长度;一段,一节,程度,范围
+innocent a.(of)清白的,无罪的;无害的;单纯的,无知的
+attorney n.(业务或法律事务上的)代理人；辩护律师
+lucky a.幸运的,侥幸的
+faculty n.才能;学院,系;(学院或系的)全体教学人员
+real a.真的,真实的;实际的,现实的
+hall n.礼堂,会堂,办公大楼,门厅
+you pron.你；你们；一个人，任何人
+wrap v.裹,缠,卷,包 n.披肩,围巾
+paragraph n.段,节;小新闻,短评
+turn v./n.(使)转动;(使)旋转;(使)转变 n.机会
+sweater n.毛衣,绒衣,厚运动衫
+offer v.提供,提议,出现 n.出价,提议,意图
+garage n.车库,飞机库;修车厂
+sly a.狡猾的,偷偷摸摸的
+acquisition n.取得，学到，养成(习惯)；获得的东西
+health n.健康,健康状况;卫生
+sell v.卖,出售
+privilege n.特权,优惠,特许 v.给予优惠,给予特权
+assimilate vt.吸收，消化；使同化 vi.被吸收；被同化

@@ -1,0 +1,22 @@
+day 136:
+
+module n.组件，模块，模件；(航天器的)舱
+civilization n.(=civilisation)文明,文化
+generous a.宽宏大量的,慷慨的
+frost n.霜,霜冻,严寒
+opportunity n.机会
+belly n.肚子，腹部；(像肚子一样)鼓起的部分，膛
+pill n.药丸
+scientific a.科学上的
+principle n.原理,原则;主义,信念
+revelation n.揭示,揭露,显示,启示,新发现,被揭露的事
+renew v.(使)更新,恢复,重新开始,继续
+brief a.简短的,简洁的 v.简短介绍,简要汇报
+jet n.喷气发动机,喷气式飞机;喷口 v.喷出,喷射
+rain n.雨；雨天；下雨 vi.下雨 vt.使大量落下
+beam n.(横)梁,桁条;(光线的)束,柱 v.微笑
+no ad.不是，不 a.没有的；不允许 n.不，拒绝
+conclusion n.结论，推论；结尾；缔结，议定
+surpass vt.超过,胜过
+bankrupt a.破产的；彻底缺乏的 vt.使破产 n.破产者
+symphony n.交响乐,交响曲

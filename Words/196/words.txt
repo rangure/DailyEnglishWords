@@ -1,0 +1,22 @@
+day 196:
+
+letter n.信,函件;字母,文字
+left n.左面，左方 a.左边的，左面的；在左方的
+antenna n.(无线电或电视的)天线
+statement n.声明,陈述
+grief n.悲伤，悲痛；悲伤的事，悲痛的缘由
+instant a.立即的;紧迫的;(食品)速溶的 n.瞬间,时刻
+vegetation n.植物,草木
+minimum n.最小值,最低限度 a.最小的,最低的
+hammer n.铁锤,槌,榔头 v.锤击,敲打
+thesis n.(pl.theses) 论文;论题;论点
+force n.力量,力;势力;(pl.)(总称)军队 v.强迫
+celebrate vt.庆祝；颂扬，赞美 vi.庆祝，过节
+effect n.结果;效果;影响;印象 vt.招致;实现;达到
+apartment n.[英]房间，套间；[美]公寓
+readily ad.容易地;乐意地,欣然地
+acknowledge vt.承认；接受；告知(信件等的)收到；答谢
+publish v.出版,刊印;公布,发布
+rigorous a.严格的,严厉的,严酷的,严密的,严谨的
+expensive a.花费的,昂贵的
+voice n.声音;嗓音;发音能力;意见,发言权;语态
