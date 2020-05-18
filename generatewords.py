@@ -30,4 +30,4 @@ l=["new words:\n",'\n']+poolnew+['\n',"old words:\n",'\n']+result_old+result_har
 rd=open("README.md",'w')
 for i in l:
     print(i[:-2])
-    rd.write(i[:-2]+'\\')
+    rd.write(i[:-2]+'\\\n')
