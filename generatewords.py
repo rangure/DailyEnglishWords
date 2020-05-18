@@ -29,4 +29,5 @@ result_hard=random.sample(pool2,k=min(n_hard,len(pool2)))
 l=["new words:\n",'\n']+poolnew+['\n',"old words:\n",'\n']+result_old+result_hard
 rd=open("README.md",'w')
 for i in l:
-    rd.write(i)
+    print(i[:-2])
+    rd.write(i[:-2]+'\\')
