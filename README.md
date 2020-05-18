@@ -1,6 +1,6 @@
 new words:
 
-cocaine n.可卡因，古柯碱（用作局部麻醉剂）
+cocaine n.可卡因，古柯碱（用作局部麻醉剂）\
 pea n.豌豆
 perpetual a.永久的,永恒的,长期的
 promote v.促进,发扬;提升,提拔;增进,助长
